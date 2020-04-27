@@ -25,3 +25,25 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## cmds
+
+npm install -g npm
+
+npm uninstall -g angular-cli @angular/cli
+
+npm cache verify
+
+npm install -g @angular/cli
+
+ng new my-first-ng-app
+
+cd my-first-app
+
+ng serve
+
+npm install --save-dev angular-ide
+
+npm install --save bootstrap@3
+
+ng generate component servers or (ng g c servers)
